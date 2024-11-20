@@ -1,0 +1,1 @@
+/usr/bin/c++ -g -std=c++0x CMakeFiles/genx_server2.dir/src/genx_MyServer2.cpp.o -o genx_server2  -lvsomeip3 

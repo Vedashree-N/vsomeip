@@ -1,0 +1,5 @@
+/home/root/vsomeip/examples/GenX/build/CMakeFiles/genx_server1.dir
+/home/root/vsomeip/examples/GenX/build/CMakeFiles/genx_server2.dir
+/home/root/vsomeip/examples/GenX/build/CMakeFiles/genx_client.dir
+/home/root/vsomeip/examples/GenX/build/CMakeFiles/edit_cache.dir
+/home/root/vsomeip/examples/GenX/build/CMakeFiles/rebuild_cache.dir
