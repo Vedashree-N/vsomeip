@@ -1,0 +1,1 @@
+/usr/bin/c++ -g -std=c++0x CMakeFiles/genx_client.dir/src/genx_MyClientApplication.cpp.o -o genx_client  -lvsomeip3 
